@@ -1,0 +1,8 @@
+requests==2.24.0
+matplotlib==3.2.2
+loguru==0.5.1
+Flask==1.1.2
+numpy==1.19.0
+tensorflow-gpu==2.2.0
+django_recaptcha==2.0.6
+tqdm==4.48.0
